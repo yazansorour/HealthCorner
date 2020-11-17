@@ -5,7 +5,7 @@ from . import __version__ as app_version
 app_name = "health_corner"
 app_title = "Health Corner"
 app_publisher = "Yazan"
-app_description = "Health Corner Services will handle client sub"
+app_description = "Health Corner Services"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "yazansorour1@gmail.com"
