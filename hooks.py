@@ -11,6 +11,8 @@ app_color = "grey"
 app_email = "yazansorour1@gmail.com"
 app_license = "MIT"
 
+# Yazan Edition
+
 # Includes in <head>
 # ------------------
 
